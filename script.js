@@ -14,4 +14,5 @@ button.addEventListener(
     }
 );
 
-jj
+let myImage = document.getElementById("guitar-note.png")
+

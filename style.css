@@ -27,12 +27,14 @@ body {
 
 }
 
-.images {}
+.images {
+
+}
 
 .large {
-    border-style: solid;
-    padding-inline: 5%;
-    border-radius: 5%;
-    background-color: beige;
-    margin: 5%
+ border-style:solid;
+ padding-inline: 5%;
+ border-radius: 5%;
+ background-color: beige;
+ margin: 5%
 }
